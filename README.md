@@ -1,40 +1,70 @@
 # ELECTRIC-VEHICLE-DATA-ANALYSIS
 Analysis on EV using Tableau 
 
-🚗⚡ Electric Vehicle Data Analysis – Tableau Dashboard
+# 🚗⚡ Electric Vehicle Data Analysis – Tableau Dashboard
 
-The goal of this project was to analyze the adoption and growth of Electric Vehicles (EVs) in the U.S. and identify key trends driving the clean energy transition. Using Tableau, I designed an interactive dashboard that enables users to explore EV data from multiple perspectives.
+## 📌 Project Overview
+This project focuses on analyzing the adoption and growth of **Electric Vehicles (EVs)** across the United States using **Tableau**.  
+The interactive dashboard provides insights into **total EVs, BEVs vs PHEVs market share, state-level adoption, top manufacturers, CAFV eligibility, and popular EV models**.  
 
-Key Features of the Dashboard:
+The goal of this project is to transform raw EV data into **actionable insights** that highlight market trends, growth patterns, and the future of sustainable mobility.  
 
-📊 KPIs: Total EVs (1,50,422), Average Range (67.83 miles), BEVs vs PHEVs market share.
+---
+ 
 
-📈 Trend Analysis: Growth of EV adoption by model year, highlighting a sharp rise after 2017.
+## 🎯 Key Insights
+- Total EVs analyzed: **1,50,422**  
+- Average Electric Range: **67.83 miles**  
+- BEVs account for **77.6%**, while PHEVs account for **22.4%**  
+- Tesla dominates with **67% market share**, followed by Nissan, Chevrolet, and Ford  
+- **Tesla Model Y** and **Model 3** are the most popular EVs, together accounting for ~37% of total EVs  
+- EV adoption surged post-2017, showing strong growth momentum  
+- State-level analysis shows high adoption in leading states  
 
-🌍 Geographic Analysis: State-wise distribution of EVs across the U.S.
+---
 
-🚘 Top Manufacturers: Tesla leads with 67% share, followed by Nissan, Chevrolet, and Ford.
+## 🛠 Tools & Technologies
+- **Tableau** – Dashboard creation, visualization, and analysis  
+- **Data Analysis** – Trend and distribution insights  
+- **Geospatial Mapping** – State-wise EV distribution  
 
-🔄 CAFV Eligibility: Breakdown of EVs by Clean Alternative Fuel Vehicle eligibility.
+---
 
-🏆 Popular Models: Tesla Model Y & Model 3 dominate EV registrations.
+## 🛠 Skills Demonstrated
+- Tableau  
+- Data Visualization  
+- Business Intelligence (BI)  
+- Data Analysis  
+- Data Storytelling  
+- KPI Development  
+- Geospatial Analysis  
+- Dashboard Design  
 
-Tools & Skills Used:
+---
 
-Tableau → Dashboard design, KPIs, filters, maps, and charts
+## 📂 Project Structure
 
-Data Analysis → Trend, distribution, and categorical insights
 
-Storytelling → Transforming raw EV data into actionable insights
+---
 
-Insights & Impact:
+## 📑 How to Use
+1. Open the Tableau Dashboard file (`.twbx` if you include it).  
+2. Explore insights using filters such as **State**, **CAFV eligibility**, and **Top N manufacturers/models**.  
+3. Interact with KPIs, charts, and maps for a detailed view of EV adoption.  
 
-Tesla’s dominance in the EV market is clear, with Model Y and Model 3 accounting for ~37% of all EVs.
+---
 
-EV adoption has accelerated post-2017, indicating growing consumer interest and policy support.
+## 📈 Future Improvements
+- Add time series forecasting for EV adoption.  
+- Include charging infrastructure analysis.  
+- Expand dashboard with EV sales by year and price trends.  
 
-State-level analysis shows which regions are leading in clean mobility.
+---
 
-CAFV eligibility highlights the role of policy incentives in EV adoption.
+## 📎 Dataset
+*( Kaggle: elecric vehicle dataset )*  
 
-This project demonstrates my ability to work with real-world datasets, create business-ready dashboards, and derive actionable insights for stakeholders in the automobile and energy sector.
+---
+
+
+
